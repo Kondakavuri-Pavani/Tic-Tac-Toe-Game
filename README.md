@@ -15,4 +15,14 @@ You can run the application in one of the following ways:
 
 This will start the application.
 
-Happy coding! 🙂
+Run commands
+
+1. g++ -o Tic_Tac_Toe_Game main.cpp
+
+2. ./Tic_Tac_Toe_Game
+
+Output
+![image](https://github.com/user-attachments/assets/95d79940-2d93-47c6-84bc-9d8844dd5685)
+
+
+Happy coding!
