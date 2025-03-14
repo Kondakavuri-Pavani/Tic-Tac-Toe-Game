@@ -17,12 +17,13 @@ This will start the application.
 
 Run commands
 
-1. g++ -o Tic_Tac_Toe_Game main.cpp
+1. g++ main.cpp
 
-2. ./Tic_Tac_Toe_Game
+2. ./a.out
 
 Output
-![image](https://github.com/user-attachments/assets/95d79940-2d93-47c6-84bc-9d8844dd5685)
+![image](https://github.com/user-attachments/assets/aa5acb55-ce6e-474c-84c3-2c3f33630955)
+
 
 
 Happy coding!
